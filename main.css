@@ -39,12 +39,12 @@ html {
     margin: 0.625rem;
 }
 .hero-title {
-    font-size: 5rem;
+    font-size: 9rem;
     font-weight: 600;
     margin-bottom: 0;
 }
 .hero-subtitle {
-    font-size: 4rem;
+    font-size: 5rem;
     font-weight: 200;
     margin-top: 1rem;
 }
